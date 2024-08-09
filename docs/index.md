@@ -1,3 +1,3 @@
 # Purrsheen Lamp
 
-This documentation is currently being worked on. Please check back later!
+The Purrsheen Lamp is a simple-to-build WLED powered IoT cat lamp!
